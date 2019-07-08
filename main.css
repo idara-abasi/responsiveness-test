@@ -1,0 +1,70 @@
+/* html,body{
+    height: 100vh;
+    width: 100vw;
+    background-image: url('niit backgroundpicture.png') ;
+    background-position: 0% -40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+} */
+#header{
+    background: url('photos/travelagency.png');
+    background-size: cover;
+    height: 660px;
+    background-attachment: fixed;
+
+}
+.fly{
+    margin-left: 650px;
+}
+.para{
+line-height: 40px;
+padding-top: 100px;
+}
+.frog{
+    height: 100px;
+
+}
+
+/* styling for my about */
+#aboutHeader{
+    background: url('Photos/nicebackground.png');
+    background-size: cover;
+    height: 660px;
+    background-attachment: fixed;
+
+}
+.flag{
+    margin-left: 650px;
+
+}
+
+/* styling for my contact page */
+.container1{
+    background: linear-gradient(rgb(17,17,17,0.5),rgb(17,17,17,0.5),rgb(17,17,17,0.5)), url('Photos/fresh\ desktop.png');
+    background-size: cover;
+    height: 660px;
+    background-attachment: fixed;
+    
+}
+.goat{
+    height: 100px;
+
+}
+.daddy{
+    width: 350px;
+    margin-left: 650px;
+}
+.mummy{
+    width: 350px;
+    margin-left: 650px;
+}
+
+.friend{
+    margin-left: 650px;
+    
+}
+.brother{
+    margin-left: 650px;
+}
+
